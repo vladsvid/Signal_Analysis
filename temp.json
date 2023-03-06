@@ -1,0 +1,1 @@
+{"Fclk": 768000.0, "zero_one_convert": true, "bw": "npm", "cut_first_bin": false, "noiseOnly": false, "aweight": false, "window": "hann", "ampCor": true}
